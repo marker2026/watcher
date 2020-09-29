@@ -5,7 +5,12 @@
 
 # Установка
 * [python 3.6+](https://www.python.org/)
+* git clone https://github.com/marker2026/watcher.git
+* cd watcher
 * pip install -r requirements.txt
+
+# Запуск
+* python3 main.py
 
 # Использование
 Скрипт отсылает фотографии пользователю в дискорд, по ID (12 строка), он проверятет находится ли мышь в позиции указанной позиции, по умолчанию (0, 0).
