@@ -7,7 +7,7 @@ PS На самом деле я бы мог использовать телегр
 
 # Установка
 * [python 3.6+](https://www.python.org/)
-* git clone https://github.com/marker2026/watcher.git
+* git clone https://github.com/14bc034d/watcher.git
 * cd watcher
 * sudo python3 -m pip install -r requirements.txt
 
